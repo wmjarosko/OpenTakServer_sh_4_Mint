@@ -28,8 +28,11 @@ ots user password is open a new terminal, set a password for the 'ots' user in p
 
 
   sudo -u postgres psql -c "\\du"   #verify the ots user role exists
+  
   sudo -u postgres psql   #login to postgress to make changes
+  
   ALTER ROLE ots WITH LOGIN PASSWORD 'your new password';
+  
   \q  #quit sql session 
 
 Then return to the script and use the same password you just set.
