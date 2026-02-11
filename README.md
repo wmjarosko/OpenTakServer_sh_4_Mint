@@ -39,4 +39,5 @@ Then return to the script and use the same password you just set.
 
 That's it.
   
+<img width="1406" height="777" alt="image" src="https://github.com/user-attachments/assets/c2c0aafd-90d9-44ea-872d-8b6d61aa3d6b" />
 
