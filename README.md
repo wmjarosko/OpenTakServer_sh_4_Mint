@@ -13,6 +13,7 @@ Two issues I've found during testing;
 1) If any packages complain about xia for whatever reason, exit the script and change the /etc/apt/sources.list.d/docker.list
 
 "sudo nano /etc/apt/sources.list.d/docker.list"
+
  From;  https://download.docker.com/linux/ubuntu xia stable
  
  To; https://download.docker.com/linux/ubuntu noble stable
